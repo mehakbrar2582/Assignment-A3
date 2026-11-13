@@ -1,6 +1,6 @@
 # Virtual environment 
 dj_ajax/*
-!dj_ajax/posts_proj/
+!dj_ajax/src/
 venv/
 .venv/
 env/
